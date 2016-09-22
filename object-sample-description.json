@@ -1,0 +1,25 @@
+[
+  {
+    "nid": "", // unique id of the service container, this should only be at parent level and not refer to subsequent blocks
+    "item_id": "", // id of the blocks contained within a parent container
+    "rank_id": "", // this is the numeric order for which a block appears within a service widget order (e.g. 1 for home, 2 for after first screen)
+    "title": "", // service title
+    "field_call_to_action": "", // this is the text that appears as the main or left hand button for call to action
+    "field_trigger": "", // comma separated list of triggers that this service or block is relevant against
+    "field_description": "", // longer description that might occur in panel
+    "field_next_page": "", // define whether this block has a another block that follows in execution or if it is final
+    "field_link_location": "", // a link of where a service tile may go to
+    "field_form_attributes": "", // a list in a consistent format (e.g. YAML or pipe separated) that describes form fields that might be represented on a block page
+    "field_secondary_call_to_action": "",  // this is the text that appears as the main or left hand button for call to action
+    "field_image": "", // link to an image
+    "field_start_date": "", // relevant start date for event or service, can be a timestamp
+    "field_end_date": "", // relevant end date for event or service
+    "field_renewal_date": "", // time for renewal
+    "field_time_of_relevance": "", // when a service or block becomes relevant (e.g. 1 month from renewal; 1 week before an event)
+    "field_api_psd_reference": "", // API reference to the PSD service directory
+    "field_api_to_completion_form": "", // API reference to form that the service widget needs to submit data
+    "field_department": "", // department that owns the parent service container
+    "field_service_type": "", // type of service, e.g. Promo Banner, renewal
+    "field_subheading": "", // content subheading
+  }
+]

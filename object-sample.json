@@ -7,7 +7,6 @@
     "field_call_to_action": "",
     "field_trigger": "",
     "field_description": "",
-    "field_cta_text": "",
     "field_next_page": "",
     "field_link_location": "",
     "field_form_attributes": "",
@@ -19,12 +18,8 @@
     "field_time_of_relevance": "",
     "field_api_psd_reference": "",
     "field_api_to_completion_form": "",
-    "field_default_description": "",
     "field_department": "",
-    "field_service_typ": "",
-    "field_subheading": "",
-    "field_subsequent_pattern": "",
-    "field_temporal_relevance": "",
-    "field_triggered_image": "",
+    "field_service_type": "",
+    "field_subheading": ""
   }
 ]
