@@ -1,0 +1,25 @@
+[
+  {
+    "nid": "",
+    "item_id": "",
+    "rank_id": "",
+    "title": "",
+    "field_call_to_action": "",
+    "field_trigger": "",
+    "field_description": "",
+    "field_next_page": "",
+    "field_link_location": "",
+    "field_form_attributes": "",
+    "field_secondary_call_to_action": "",
+    "field_image": "",
+    "field_start_date": "",
+    "field_end_date": "",
+    "field_renewal_date": "",
+    "field_time_of_relevance": "",
+    "field_api_psd_reference": "",
+    "field_api_to_completion_form": "",
+    "field_department": "",
+    "field_service_type": "",
+    "field_subheading": ""
+  }
+]
